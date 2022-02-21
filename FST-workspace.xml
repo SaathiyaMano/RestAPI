@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="FST" soapui-version="6.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="Project 1" lastOpened="2022-02-21T11:56:29.294+05:30">C:/Users/admin/Downloads/SOAPUI_Projects-master/SOAPUI_Projects-master/RestAPI/Project-1-readyapi-project.xml</con:project>
+  <con:project name="REST Sample Project" lastOpened="2022-02-21T11:59:32.012+05:30">C:/Users/admin/Downloads/SOAPUI_Projects-master/SOAPUI_Projects-master/RestAPI/REST-Sample-Project-readyapi-project.xml</con:project>
+  <con:project name="MyRestAssuredProject" lastOpened="2022-02-21T13:46:39.504+05:30">C:/Users/admin/Downloads/SOAPUI_Projects-master/SOAPUI_Projects-master/RestAPI/MyRestAssuredProject-soapui-project.xml</con:project>
+  <con:recentItemCollection>
+    <con:moduleId>SoapUiNGModule</con:moduleId>
+    <con:itemId>394ff78d-dccf-4374-922b-4e9968e9ea1d</con:itemId>
+    <con:itemId>9b157131-c193-48e6-95ab-7fc8136f2d4f</con:itemId>
+    <con:itemId>281c99a0-35e4-4fec-a59e-d8a7989b72bf</con:itemId>
+    <con:itemId>246e7e87-b007-4282-96a7-8d2c3521a10c</con:itemId>
+    <con:itemId>e4d8c567-1dd9-477c-b1c6-6e2c1e3bee2b</con:itemId>
+  </con:recentItemCollection>
+  <con:expandedTreeNodes>
+    <con:project path="C:\Users\admin\Downloads\SOAPUI_Projects-master\SOAPUI_Projects-master\RestAPI\Project-1-readyapi-project.xml">
+      <nodeId>df20f989-2022-4044-a6ed-5e2a1793f9ee</nodeId>
+    </con:project>
+    <con:project path="C:\Users\admin\Downloads\SOAPUI_Projects-master\SOAPUI_Projects-master\RestAPI\REST-Sample-Project-readyapi-project.xml">
+      <nodeId>c3fbf613-f789-4fe0-a4e5-1757eba3ccc2</nodeId>
+      <nodeId>d4b194ea-9025-4d1a-bf69-3e4acd860e62</nodeId>
+      <nodeId>333b3b92-bc99-4628-afcb-90672b2992easervicev</nodeId>
+      <nodeId>144505c6-b03d-43d1-8f24-71eb41db11e3</nodeId>
+      <nodeId>333b3b92-bc99-4628-afcb-90672b2992ea</nodeId>
+    </con:project>
+    <con:project path="C:\Users\admin\Downloads\SOAPUI_Projects-master\SOAPUI_Projects-master\RestAPI\MyRestAssuredProject-soapui-project.xml">
+      <nodeId>ff55a0f0-f775-45cf-a49a-33076f38128d</nodeId>
+      <nodeId>f482a974-798c-4adb-87e1-17ab8f1983be</nodeId>
+      <nodeId>4ee2f4ce-9446-40e8-bf94-c1ed6e85846b</nodeId>
+      <nodeId>aeba9bcf-15ff-4668-8ac4-32e13543b91c</nodeId>
+      <nodeId>79340444-66af-4545-8b73-c2c59e78e744</nodeId>
+      <nodeId>30e8db2d-856d-4084-b00e-bf14685d3cfd</nodeId>
+      <nodeId>a5b4212c-f486-4574-a552-30569966b307</nodeId>
+      <nodeId>cf0946e0-de59-4e80-b8fc-ce7301090f0d</nodeId>
+      <nodeId>533a7745-c422-476c-9756-11128fb663fd</nodeId>
+      <nodeId>57c65676-adab-4137-af56-573e85e9b984</nodeId>
+      <nodeId>19a043dc-fc10-4a9a-9e33-107290529be2</nodeId>
+      <nodeId>f482a974-798c-4adb-87e1-17ab8f1983besoapui</nodeId>
+      <nodeId>1aa33982-fa76-49ab-a65c-9adfaebb0e98</nodeId>
+      <nodeId>d24d0db1-6dda-4ca6-9146-b6a4f635d332</nodeId>
+      <nodeId>87d04ec5-286c-45f4-aa82-e4409ee49663</nodeId>
+      <nodeId>5a1c3ec2-f512-4b9a-859b-8ec4d34c1db0</nodeId>
+      <nodeId>9b157131-c193-48e6-95ab-7fc8136f2d4f</nodeId>
+      <nodeId>3905b765-ce2b-40a7-a607-15c59369559c</nodeId>
+      <nodeId>7c6b8ba1-7999-402e-9aaa-b85f85abf485</nodeId>
+      <nodeId>44d6dd90-c834-4bef-b9ce-71cb6bd4ffd9</nodeId>
+      <nodeId>8136ee72-928a-423c-8c69-5e0f836451c5</nodeId>
+      <nodeId>be5254f1-54e5-4e27-a08a-c6c2c874b8a4</nodeId>
+      <nodeId>e0192f15-4460-42d1-a8f8-d8f807bbc5ec</nodeId>
+      <nodeId>f482a974-798c-4adb-87e1-17ab8f1983beapis</nodeId>
+      <nodeId>394ff78d-dccf-4374-922b-4e9968e9ea1d</nodeId>
+      <nodeId>36864382-3ac4-43ed-96d0-34516e64049c</nodeId>
+      <nodeId>336532b7-c4aa-4dda-a4b6-8cbe9bef75e1</nodeId>
+    </con:project>
+  </con:expandedTreeNodes>
+  <con:overridenPropertyValuesCollection/>
+</con:soapui-workspace>
